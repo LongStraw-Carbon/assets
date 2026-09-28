@@ -5,9 +5,9 @@
     "ios": {},
     "web": {
       "defaults": {
-        "favicon": "/brand/favicon.svg",
-        "logo": "/brand/longstraw-carbon-logo.png",
-        "logoMobile": "/brand/longstraw-carbon-logo.png"
+        "favicon": "brand/favicon.svg",
+        "logo": "brand/longstraw-carbon-logo.png",
+        "logoMobile": "brand/longstraw-carbon-logo.png"
       },
       "themes": [
         {
@@ -123,14 +123,14 @@
           },
           "isDark": true,
           "label": "Dark Theme",
-          "logo": "/brand/longstraw-carbon-logo-white.png",
-          "logoMobile": "/brand/longstraw-carbon-logo-white.png"
+          "logo": "brand/longstraw-carbon-logo-white.png",
+          "logoMobile": "brand/longstraw-carbon-logo-white.png"
         }
       ]
     }
   },
   "common": {
-    "logo": "/brand/longstraw-carbon-logo.png",
+    "logo": "brand/longstraw-carbon-logo.png",
     "name": "Longstraw Carbon Files",
     "shareRoles": {
       "1c996275-f1c9-4e71-abdf-a42f6495e960": {
